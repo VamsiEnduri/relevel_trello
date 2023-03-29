@@ -1,0 +1,10 @@
+.card{
+    max-width: 220px;
+    min-height: 170px;
+    margin-left: 20px;
+    text-align: center;
+border-radius: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: lightsalmon;
+}
